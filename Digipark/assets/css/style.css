@@ -294,7 +294,7 @@ nav.navbar.bootsnav .navbar-toggle i {
   padding: 50px 0 100px;
 }
 .about-content {
-  padding-top: 100px;
+  padding-top: 43px;
 }
 /*.single-about-txt*/
 .single-about-txt h3 {
@@ -443,8 +443,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 /*-------------------------------------
         6.  Skills
 --------------------------------------*/
-.skills {
-}
+
 .skill-content {
   padding: 50px 0 80px;
 }
@@ -455,7 +454,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
   font-size: 24px;
   font-weight: 600;
   text-transform: uppercase;
-  padding-bottom: 50px;
+  padding-bottom: 31px;
   border-bottom: 1px solid #e5ebf2;
   border-top: 1px solid #e5ebf2;
   padding-top: 31px;
@@ -1168,6 +1167,11 @@ button:hover {
   .dice {
     perspective: 1300px;
   }
+}
+.big-o {
+  font-size: 36px; /* Taille plus grande pour le "O" */
+  font-weight: bold; /* Optionnel : mettre le "O" en gras pour un effet plus prononcé */
+  font-family: "Georgia", Times, serif; /* Utilisation d'une police similaire aux textes anciens */
 }
 
 /*========================Thank you================= */
